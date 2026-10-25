@@ -1,2 +1,10 @@
 # hello-agentscope
-Tiny practice repo for AgentScope / GitHub basics
+
+A tiny public sandbox repo for learning GitHub basics and AgentScope experiments.
+
+## Quick start
+```bash
+git clone https://github.com/pixelbox-zhishi/hello-agentscope.git
+```
+
+Created for personal practice.
